@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/cmg2JL9P1cRernDyJj/giphy.gif)
+![](https://github.com/taras-zak/taras-zak/blob/master/ezgif-2-2a452386acd0.gif)
 <!--
 **taras-zak/taras-zak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
